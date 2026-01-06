@@ -1,0 +1,9 @@
+{
+    "HOST_IP": "",
+    "SERVER_NAME": "",
+    "MC_PORT": 0,
+    "QUERY_PORT": 0,
+    "RCON_PORT": 0,
+    "RCON_PASSWORD": "",
+    "SSH_USER": ""
+}
