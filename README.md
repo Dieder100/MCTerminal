@@ -1,6 +1,9 @@
 # MCTerminal
 This repository implements a remote terminal for Minecraft servers with Python.
-The server must be running in a systemd.
+
+### Requirements
+* The server must be managed by systemd on linux.
+* A working ssh connection to your server must be available
 
 ### Steps
 * Fill the correct fields in the config for your server
